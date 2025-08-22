@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\hello_world\\hello_world\\hello_world.csproj",
+      "projectUniqueName": "D:\\BACKUP\\Complete Projects\\C sharp projects\\hello_world\\hello_world\\hello_world.csproj",
       "projectName": "hello_world",
-      "projectPath": "C:\\Users\\user\\source\\repos\\hello_world\\hello_world\\hello_world.csproj",
+      "projectPath": "D:\\BACKUP\\Complete Projects\\C sharp projects\\hello_world\\hello_world\\hello_world.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\hello_world\\hello_world\\obj\\",
+      "outputPath": "D:\\BACKUP\\Complete Projects\\C sharp projects\\hello_world\\hello_world\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

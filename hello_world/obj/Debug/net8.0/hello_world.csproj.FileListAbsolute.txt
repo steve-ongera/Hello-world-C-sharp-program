@@ -12,3 +12,18 @@ C:\Users\user\source\repos\hello_world\hello_world\obj\Debug\net8.0\refint\hello
 C:\Users\user\source\repos\hello_world\hello_world\obj\Debug\net8.0\hello_world.pdb
 C:\Users\user\source\repos\hello_world\hello_world\obj\Debug\net8.0\hello_world.genruntimeconfig.cache
 C:\Users\user\source\repos\hello_world\hello_world\obj\Debug\net8.0\ref\hello_world.dll
+D:\BACKUP\Complete Projects\C sharp projects\hello_world\hello_world\bin\Debug\net8.0\hello_world.exe
+D:\BACKUP\Complete Projects\C sharp projects\hello_world\hello_world\bin\Debug\net8.0\hello_world.deps.json
+D:\BACKUP\Complete Projects\C sharp projects\hello_world\hello_world\bin\Debug\net8.0\hello_world.runtimeconfig.json
+D:\BACKUP\Complete Projects\C sharp projects\hello_world\hello_world\bin\Debug\net8.0\hello_world.dll
+D:\BACKUP\Complete Projects\C sharp projects\hello_world\hello_world\bin\Debug\net8.0\hello_world.pdb
+D:\BACKUP\Complete Projects\C sharp projects\hello_world\hello_world\obj\Debug\net8.0\hello_world.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKUP\Complete Projects\C sharp projects\hello_world\hello_world\obj\Debug\net8.0\hello_world.AssemblyInfoInputs.cache
+D:\BACKUP\Complete Projects\C sharp projects\hello_world\hello_world\obj\Debug\net8.0\hello_world.AssemblyInfo.cs
+D:\BACKUP\Complete Projects\C sharp projects\hello_world\hello_world\obj\Debug\net8.0\hello_world.csproj.CoreCompileInputs.cache
+D:\BACKUP\Complete Projects\C sharp projects\hello_world\hello_world\obj\Debug\net8.0\hello_world.sourcelink.json
+D:\BACKUP\Complete Projects\C sharp projects\hello_world\hello_world\obj\Debug\net8.0\hello_world.dll
+D:\BACKUP\Complete Projects\C sharp projects\hello_world\hello_world\obj\Debug\net8.0\refint\hello_world.dll
+D:\BACKUP\Complete Projects\C sharp projects\hello_world\hello_world\obj\Debug\net8.0\hello_world.pdb
+D:\BACKUP\Complete Projects\C sharp projects\hello_world\hello_world\obj\Debug\net8.0\hello_world.genruntimeconfig.cache
+D:\BACKUP\Complete Projects\C sharp projects\hello_world\hello_world\obj\Debug\net8.0\ref\hello_world.dll
